@@ -88,3 +88,6 @@ video, img {
     margin-right: auto; /* Centrará el botón debajo de la imagen */
 }
 
+a{
+    text-decoration: none;
+}
